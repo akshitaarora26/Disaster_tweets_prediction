@@ -1,6 +1,5 @@
----
-title: "Disaster Tweet Classification using BERT"
----
+## Disaster Tweet Classification using BERT
+
 
 # Overview
 This project implements a disaster tweet classification model using BERT (Bidirectional Encoder Representations from Transformers). The model determines whether a tweet refers to a real disaster or not. It is built using PyTorch and Hugging Face's `transformers` library.
